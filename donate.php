@@ -3,43 +3,58 @@ ob_start();
 include "./inc/header.php";
 $buffer = ob_get_contents();
 ob_end_clean();
-$buffer = str_replace("%TITLE%", "MeCAHT | About us", $buffer);
+$buffer = str_replace("%TITLE%", "MeCAHT | Donate", $buffer);
 echo $buffer;
 ?>
 
-<section class="page-hero about">
-  <div class="container text-center">
-    <h1 class="title">DONATE</h1>
-  </div>
+<section class="page-hero media">
+	<div class="container text-center">
+		<h1 class="title">Donate</h1>
+	</div>
 </section>
-<main class="bg-white">
-<section class="m-section" id="whoWeAre">
-  <div class="container">
-    <div class="row align-items-center">
-            <div class="col-lg-6">
-        <div class="m-section__content">
-          <div class="m-section__content-wrapper">
-                 <div class="m-section__heading text-left p-0">
-          <h3 class="text-dark">Who We Are</h3>
-        </div>
-            <p class="desc desc--faded text-dark">• We started in Nigeria in 2008 & registered in 2015 as MeCAHT (Media Coalition & Awareness to Halt Human Trafficking)</p>
-            <p class="desc desc--faded text-dark">• We registered in 2014 in South Africa as MeCAHT (Media Campaign Against Human Trafficking) </p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-6 p-0">
-        <div class="m-section__content">
-          <div class="m-section__content-wrapper">
-            <img src="./assets/page_images/about-img.png" alt="World Image" class="img-fluid">
-          </div>
-        </div>
-      </div>
-
-    </div>
+<section class="m-section" id="structure" style="min-height: 10vh;">
+	<div class="container">
+		<div " class="m-section__heading text-center mb-0 pb-0">
+			<h3>Account Details</h3>
+		</div>
+		<div class="col-lg-8 mx-auto">
+			<div class="row">
+				<div class="col-6">
+					<div class="m-section__content sm text-center">
+						<div class="m-section__content-wrapper col-lg-12">
+							<a href="#">
+								<div class="d-flex align-items-center justify-content-center">
+									<div class="num p-2">
+										<span class="sm"></span>
+									</div>
+									<p class="desc desc--faded mt-0 text-left">Guarantee Trust Bank </p>
+								</div>
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-6">
+					<div class="m-section__content sm text-center">
+						<div class="m-section__content-wrapper col-lg-12">
+							<a href="#">
+								<div class="d-flex align-items-center justify-content-center">
+									<div class="num p-2">
+										<span class="sm"></span>
+									</div>
+									<p class="desc desc--faded mt-0 text-left">Guarantee Trust Bank </p>
+								</div>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
 </section>
-<?php
+<!-- <?php
 include "./components/partners.php";
-?>
+?> -->
 
 <div>
   <h3 style="text-align:center;color:#fff">We are Government Certified</h3>
