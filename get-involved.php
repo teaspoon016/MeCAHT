@@ -23,7 +23,7 @@ echo $buffer;
       <h3>Want to partner with us, volunteer in any of our events or join our prayer team?</h3>
       <p class="text-white small">Click on the button below</p>
       <div class="mt-3">
-      	<a href="join-us" class="link btn m-btn">
+      	<a href="join-us.php" class="link btn m-btn">
                 Get Involved
               </a>
       </div>
@@ -33,7 +33,7 @@ echo $buffer;
       <h3>Want to donate to any of our good causes?</h3>
       <p class="text-white small">Click on the button below</p>
       <div class="mt-3">
-      	<a href="join-us" class="link btn m-btn">
+      	<a href="join-us.php" class="link btn m-btn">
                 Get Involved
               </a>
       </div>
@@ -42,7 +42,7 @@ echo $buffer;
       <h3>Join our campaign to end human trafficking in Nigeria?</h3>
       <p class="text-white small">Click on the button below</p>
       <div class="mt-3">
-      	<a href="join-us" class="link btn m-btn">
+      	<a href="join-us.php" class="link btn m-btn">
                 Get Involved
               </a>
       </div>
@@ -51,7 +51,7 @@ echo $buffer;
       <h3>Attend Our conferences?</h3>
       <p class="text-white small">Click on the button below</p>
       <div class="mt-3">
-      	<a href="join-us" class="link btn m-btn">
+      	<a href="join-us.php" class="link btn m-btn">
                 Get Involved
               </a>
       </div>
