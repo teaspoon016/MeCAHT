@@ -14,7 +14,7 @@ echo $buffer;
 </section>
 <section class="m-section" id="structure" style="min-height: 10vh;">
 	<div class="container">
-		<div " class="m-section__heading text-center mb-0 pb-0">
+		<div class="m-section__heading text-center mb-0 pb-0">
 			<h3>Account Details</h3>
 		</div>
 		<div class="col-lg-8 mx-auto">

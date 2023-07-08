@@ -36,6 +36,13 @@
                 <img src="./assets/partners/mediavillage.png" class="small-logo d-block mx-auto">
               </div>
             </div>
+
+            <div class="col-lg-3">
+              <div class="logo-box">
+                <img src="./assets/partners/Australian High Commission Abuja.png" class="small-logo d-block mx-auto">
+              </div>
+            </div>
+
             <div class="col-lg-3">
               <div class="logo-box">
                 <img src="./assets/partners/cdv.png" class="small-logo d-block mx-auto">
@@ -67,7 +74,6 @@
               </div>
             </div>
 
-          </div>
           <div class="col-lg-3">
               <div class="logo-box">
                 <img src="./assets/partners/Botschaft_AT_Abuja_Logo_EN_cmyk.png" class="small-logo d-block mx-auto">
