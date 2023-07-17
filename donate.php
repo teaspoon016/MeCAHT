@@ -27,7 +27,10 @@ echo $buffer;
 									<div class="num p-2">
 										<span class="sm"></span>
 									</div>
-									<p class="desc desc--faded mt-0 text-left">Guarantee Trust Bank </p>
+									<div style="text-align: left;" class="acct">
+										<p class="desc desc--faded mt-0 text-left">Account Name</p>
+										<p style="color: #F4F1F1; max-width:200%;" >Guarantee Trust Bank: Media Coalition & Awareness to Halt Human Trafficking</p>
+									</div>
 								</div>
 							</a>
 						</div>
@@ -41,13 +44,35 @@ echo $buffer;
 									<div class="num p-2">
 										<span class="sm"></span>
 									</div>
-									<p class="desc desc--faded mt-0 text-left">Guarantee Trust Bank </p>
+									<div class="acct">
+									<p class="desc desc--faded mt-0 text-left">Account Number</p>
+									<p style="color: #F4F1F1;">0159448383</p>
+									</div>
 								</div>
 							</a>
 						</div>
 					</div>
 				</div>
 			</div>
+
+			<div class="m-section__content sm text-center">
+						<div class="m-section__content-wrapper col-lg-12">
+							<a href="#">
+								<div class="d-flex align-items-center justify-content-center">
+									<div class="num p-2">
+										<span class="sm"></span>
+									</div>
+									<div class="acct">
+									<p class="desc desc--faded mt-0 text-left">Swift Code</p>
+									<p style="color: #F4F1F1;">GTBINGLA</p>
+									</div>
+								</div>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+
 		</div>
 	</div>
 	</div>
